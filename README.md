@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on  python fullstack<br>👯 I’m looking to collaborate on python<br>🤝 I’m looking for help with next.js<br>🌱 I’m currently learning react<br>💬 Ask me about python and javascript
+🔭 I’m currently working on  PERN stack<br>👯 I’m looking to collaborate on python<br>🤝 I’m looking for help with next.js<br>🌱 I’m currently learning react<br>💬 Ask me about python and javascript
 
 
 ## 🌐 Socials:
