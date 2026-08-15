@@ -250,21 +250,20 @@ Dynamic Programming
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=challabala&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=challabala&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=challabala&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=challabala&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=challabala&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=challabala&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=challabala&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 </p>
+
 
 ---
 
