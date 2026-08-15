@@ -1,100 +1,135 @@
-# 👋 Hi, I'm Balaji Challa
+<!-- ===================== HEADER ===================== -->
 
-### 🚀 Full-Stack Developer | PERN Stack | Python | AI/ML Enthusiast
-
-I’m a software developer passionate about building **scalable web applications, backend systems, and practical technology solutions**.
-
-Currently working with the **PERN stack** and continuously expanding my skills in **DevOps, cloud technologies, AI/ML, and modern web development**.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Balaji%20Challa&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20PERN%20%7C%20Python%20%7C%20AI%2FML&descAlignY=58&descSize=18" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/challabala">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://komarev.com/ghpvc/?username=challabala&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/challa-balaji-5499b5268/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/challabala">
+    <img src="https://img.shields.io/github/followers/challabala?style=for-the-badge&logo=github&label=Followers" />
   </a>
-  <a href="https://leetcode.com/u/challabala58/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:challabala58@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/challabala?tab=repositories">
+    <img src="https://img.shields.io/github/stars/challabala?style=for-the-badge&logo=github&label=Stars" />
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+<!-- ===================== INTRO ===================== -->
 
-* 🔭 Currently working on **PERN Stack applications**
-* 💻 Interested in **Full-Stack Development & Backend Engineering**
-* 🐍 Strong interest in **Python & AI/ML**
-* 🌱 Currently learning **Docker, Kubernetes, Next.js & Cloud technologies**
-* 🤝 Open to collaborating on **Python, Full-Stack & Open Source projects**
-* 💬 Ask me about **Python, JavaScript, React, Node.js & PostgreSQL**
-* 🧠 Currently improving my **DSA & problem-solving skills**
-* 🎯 Focused on becoming a **strong software engineer through real-world projects**
-* ⚡ I enjoy turning ideas into working products
+# 👋 Hey, I'm Balaji!
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;PERN+Stack+Developer;Python+Developer;AI%2FML+Enthusiast;Backend+%26+API+Developer;Always+Learning+Something+New+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <b>Building applications. Solving problems. Learning continuously.</b>
+</p>
 
 ---
 
-# 🛠️ Tech Stack
+# 🧑‍💻 About Me
+
+I'm a **Full-Stack Developer** focused on building practical, scalable applications using modern web technologies.
+
+My current development journey revolves around **PERN stack development, backend engineering, DevOps, and AI/ML**.
+
+```text
+💻 Build     →     🧪 Experiment     →     🚀 Deploy
+      ↑                                      ↓
+      └──────────── Learn & Improve ─────────┘
+```
+
+### 🚀 What I'm Working On
+
+* 🔭 Building applications with the **PERN Stack**
+* ⚙️ Designing **REST APIs & backend systems**
+* 🐘 Working with **PostgreSQL & Prisma**
+* 🐳 Learning **Docker & containerization**
+* ☸️ Exploring **Kubernetes**
+* ⚡ Improving **React & Next.js**
+* 🐍 Building with **Python**
+* 🤖 Exploring **AI/ML & AI Engineering**
+* 🧠 Solving **DSA problems with Python**
+
+---
+
+# 🛠️ My Tech Arsenal
+
+<table>
+<tr>
+<td valign="top" width="33%">
 
 ### 💻 Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,js,c" />
 </p>
 
-### 🌐 Frontend
+</td>
+
+<td valign="top" width="33%">
+
+### 🎨 Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux,vite" />
 </p>
+
+</td>
+
+<td valign="top" width="33%">
 
 ### ⚙️ Backend
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 </p>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" />
 </p>
 
-### 🤖 Data & AI/ML
+</td>
+
+<td valign="top">
+
+### 🤖 AI / Data
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### ☁️ DevOps & Tools
+`NumPy` `Pandas` `Matplotlib` `Scikit-learn` `MLflow`
+
+</td>
+
+<td valign="top">
+
+### ☁️ DevOps
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git,github,postman" />
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -102,104 +137,121 @@ Currently working with the **PERN stack** and continuously expanding my skills i
 
 ## 🎓 TeachBuddy LMS
 
-**PERN Stack | PostgreSQL | Express.js | React | Node.js | Prisma**
+<p>
+<img src="https://img.shields.io/badge/PERN-Stack-336791?style=flat-square"/>
+<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square"/>
+</p>
 
-A full-featured Learning Management System with separate experiences for **students, faculty, and administrators**.
+A full-featured **Learning Management System** designed around separate experiences for students, faculty, and administrators.
 
-### Key Features
+### Highlights
 
-* 👨‍🎓 Student Dashboard
-* 👨‍🏫 Faculty Dashboard
-* 🛠️ Admin Dashboard
-* 📊 Academic Reports & Analytics
-* 📝 Question & Assessment Management
-* 🔔 Multi-channel Notification System
-* 📚 Course & Learning Management
-* 📈 Student Progress Tracking
-* 📋 Bulk Student Management
-* 🧾 Audit Logs & Activity Tracking
+```text
+👨‍🎓 Student Management
+👨‍🏫 Faculty Dashboard
+🛠️ Admin Dashboard
+📚 Course Management
+📝 Assessments & Questions
+📊 Academic Reports
+📈 Student Progress
+🔔 Notification System
+📋 Bulk Data Management
+🧾 Audit Logs
+```
 
 ---
 
 ## 🍿 Netflix Clone
 
-**React.js | TMDB API | Firebase**
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/TMDB-01D277?style=flat-square"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase"/>
+</p>
 
-A responsive movie streaming interface inspired by Netflix.
+A responsive movie discovery application inspired by Netflix.
 
-* 🎬 Movie & TV content
-* 🔍 Dynamic content using TMDB API
+**Features**
+
+* 🎬 Movies & TV shows
+* 🔎 TMDB API integration
 * 🔐 Firebase authentication
-* 📱 Responsive UI
-* ⚡ React-based frontend
+* 📱 Responsive interface
+* ⚡ React-based architecture
 
 ---
 
 ## 🍽️ Food Delivery Application
 
-**React | Node.js | Express | MongoDB**
+<p>
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square"/>
+<img src="https://img.shields.io/badge/Express.js-API-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square"/>
+</p>
 
-A full-stack food delivery application with a modern user interface and backend APIs.
-
-* 🔐 Authentication
-* 🍔 Restaurant & food management
-* 🛒 Cart functionality
-* 📦 Order management
-* 🔎 Search & filtering
-
----
-
-## 🤖 Machine Learning Projects
-
-**Python | NumPy | Pandas | Scikit-learn**
-
-Worked on practical machine learning projects including:
-
-* 🗑️ Automated Trash Classification
-* 🏠 House Price Prediction
-* 🚨 Hate Speech Detection
-* 📊 Data preprocessing
-* 🔧 Feature engineering
-* 🤖 Machine learning model development
+Full-stack food delivery application focused on authentication, restaurant management, cart functionality and order processing.
 
 ---
 
-# 📚 Currently Learning
+# 🤖 AI / Machine Learning
 
-```text
-                    SOFTWARE ENGINEERING
-                            │
-              ┌─────────────┴─────────────┐
-              │                           │
-        FULL-STACK                    DEVOPS
-              │                           │
-       React / Next.js                Docker
-       Node / Express                Kubernetes
-       PostgreSQL                    Nginx
-       Prisma                        Cloud
-              │                           │
-              └─────────────┬─────────────┘
-                            │
-                            ▼
-                       AI / ML
-                            │
-                 ┌──────────┴──────────┐
-                 │                     │
-           Machine Learning      AI Engineering
-           Deep Learning         LLM / GenAI
-```
+I'm also exploring practical **Machine Learning and AI** applications using Python.
+
+### Projects
+
+| Project                            | Technologies                   |
+| ---------------------------------- | ------------------------------ |
+| 🗑️ Automated Trash Classification | Python • MobileNetV2 • ML      |
+| 🏠 House Price Prediction          | Python • Pandas • Scikit-learn |
+| 🚨 Hate Speech Detection           | Python • NLP • ML              |
+| 📊 Data Analysis                   | NumPy • Pandas • Matplotlib    |
 
 ---
 
-# 📊 GitHub Stats
+# 🧠 LeetCode Journey
 
 <p align="center">
-  <a href="https://github.com/challabala">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=challabala&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" />
+  <a href="https://leetcode.com/u/challabala58/">
+    <img src="https://img.shields.io/badge/LeetCode-challabala58-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://github.com/challabala">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=challabala&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-  </a>
+</p>
+
+I'm actively improving my **Data Structures & Algorithms** skills using Python.
+
+### Current Focus
+
+```text
+Arrays
+  ↓
+Strings
+  ↓
+Hashing
+  ↓
+Linked Lists
+  ↓
+Stack & Queue
+  ↓
+Binary Search
+  ↓
+Trees
+  ↓
+Graphs
+  ↓
+Dynamic Programming
+```
+
+👉 **[View my LeetCode Profile](https://leetcode.com/u/challabala58/)**
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=challabala&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=challabala&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 </p>
 
 <p align="center">
@@ -211,53 +263,68 @@ Worked on practical machine learning projects including:
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=challabala&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=challabala&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" />
 </p>
 
 ---
 
-# 🧩 LeetCode
-
-### 💻 Problem Solving
-
-I'm actively improving my **Data Structures & Algorithms** skills and solving problems using Python.
+# 🐍 Contribution Snake
 
 <p align="center">
-  <a href="https://leetcode.com/u/challabala58/">
-    <img src="https://img.shields.io/badge/LeetCode-challabala58-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+  <img src="https://raw.githubusercontent.com/challabala/challabala/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
-**Focus areas:**
-
-`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues` • `Trees` • `Hashing` • `Binary Search` • `Dynamic Programming`
+> **Note:** The contribution snake requires a GitHub Actions workflow in your profile repository. The workflow is shown below.
 
 ---
 
 # 📈 My Developer Journey
 
 ```text
-Python
-   ↓
-Programming Fundamentals
-   ↓
-Web Development
-   ↓
-React + Node.js
-   ↓
-Full-Stack Development
-   ↓
-PERN Stack
-   ↓
-Production Applications
-   ↓
-Docker & Kubernetes
-   ↓
-Cloud & DevOps
-   ↓
-AI / ML Engineering
-   ↓
-Continuous Learning 🚀
+                  🐍 Python
+                     │
+                     ▼
+             🌐 Web Development
+                     │
+                     ▼
+              ⚛️ React + Node
+                     │
+                     ▼
+               🚀 PERN Stack
+                     │
+                     ▼
+          🏗️ Production Applications
+                     │
+                     ▼
+             🐳 Docker
+                     │
+                     ▼
+            ☸️ Kubernetes
+                     │
+                     ▼
+             ☁️ Cloud / DevOps
+                     │
+                     ▼
+              🤖 AI / ML
+                     │
+                     ▼
+           🚀 AI Engineering
+```
+
+---
+
+# 🎯 Current Goals
+
+```text
+☑ Build production-quality applications
+☑ Improve backend architecture skills
+☑ Strengthen PostgreSQL & system design
+☑ Improve DSA & problem solving
+☐ Master Docker
+☐ Master Kubernetes
+☐ Deepen AI/ML knowledge
+☐ Explore AI Engineering
+☐ Contribute more to Open Source
 ```
 
 ---
@@ -279,17 +346,25 @@ Continuous Learning 🚀
 </a>
 
 <a href="mailto:challabala58@gmail.com">
-<img src="https://img.shields.io/badge/Email-challabala58%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-challabala58-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-### 💡 Build. Learn. Break. Fix. Repeat.
-
-⭐ If you find my projects useful, consider giving them a star!
+# 💡 Developer Philosophy
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=challabala&label=Profile%20Views&color=0e75b6&style=flat" />
+  <i>"Build. Learn. Break. Fix. Repeat."</i>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%"/>
 </p>
