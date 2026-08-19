@@ -163,29 +163,6 @@ A full-featured **Learning Management System** designed around separate experien
 
 ---
 
-## 🍿 Netflix Clone
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/TMDB-01D277?style=flat-square"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase"/>
-</p>
-
-A responsive movie discovery application inspired by Netflix.
-
-**Features**
-
-* 🎬 Movies & TV shows
-* 🔎 TMDB API integration
-* 🔐 Firebase authentication
-* 📱 Responsive interface
-* ⚡ React-based architecture
-
----
-
-
----
-
 # 🤖 AI / Machine Learning
 
 I'm also exploring practical **Machine Learning and AI** applications using Python.
