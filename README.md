@@ -183,16 +183,6 @@ A responsive movie discovery application inspired by Netflix.
 
 ---
 
-## 🍽️ Food Delivery Application
-
-<p>
-<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square"/>
-<img src="https://img.shields.io/badge/Express.js-API-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square"/>
-</p>
-
-Full-stack food delivery application focused on authentication, restaurant management, cart functionality and order processing.
 
 ---
 
