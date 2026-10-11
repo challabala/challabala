@@ -112,7 +112,7 @@ My current development journey revolves around **PERN stack development, backend
 ### 🤖 AI / Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,Scikit-learn,MLflow" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,sklearn,mlflow" alt="AI and Data tools" />
 </p>
 
 `NumPy` `Pandas` `Matplotlib` `Scikit-learn` `MLflow`
