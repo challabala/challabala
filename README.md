@@ -90,7 +90,7 @@ My current development journey revolves around **PERN stack development, backend
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
 </p>
 
 </td>
